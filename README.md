@@ -4,7 +4,9 @@
 
 This is a general description of the lesson that provides an overview of the topics included in the lesson along with an indication of the depth of coverage.  It should be 3-5 sentences long. (Verdana, 12 pt.)
 
-## Prerequisite Knowledge: (Century Gothic, 14 pt., Bold) These are statements of what students are expected to know or be able to do in order to start this lesson. (Verdana, 12 pt.)
+## Prerequisite Knowledge: (Century Gothic, 14 pt., Bold) 
+
+These are statements of what students are expected to know or be able to do in order to start this lesson. (Verdana, 12 pt.)
 
 ## Length of Completion: (Verdana, 12pt)
 
